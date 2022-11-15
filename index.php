@@ -67,7 +67,7 @@
                 <div class="row justify-content-center text-center">
                         <div class="col-md-8 col-lg-6">
                                 <div class="header">
-                                        <h3>Featured Product</h3>
+                                        <h3>Featuredd Product</h3>
                                         <h2>Popular Products</h2>
                                 </div>
                         </div>
