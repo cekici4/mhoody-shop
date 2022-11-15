@@ -41,7 +41,7 @@
 
 
 
-        require($_SERVER['DOCUMENT_ROOT'] . '/webshop/admin/controller/read_product.php');
+        include($_SERVER['DOCUMENT_ROOT'] . '/webshop/admin/controller/read_product.php');
         include($_SERVER['DOCUMENT_ROOT'] . '/webshop/components/header.php');
         include($_SERVER['DOCUMENT_ROOT'] . '/webshop/admin/database.php');
         
